@@ -6,6 +6,3 @@ class Solution:
                 newStr += c.lower()
         return newStr == newStr[::-1]
    
-            
-        
-        
